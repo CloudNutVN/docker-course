@@ -1,3 +1,5 @@
+![Overview](./images/compose.jpeg) 
+
 # Docker Compose Lab
 
 This lab is intended to give you practical experience in the following things:

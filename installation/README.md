@@ -1,4 +1,4 @@
-![Overview](https://cdn.hashnode.com/res/hashnode/image/upload/v1610454337971/peuPjH7K0.png)  
+![Overview](./images/installation-docker.png)  
 
 ## Prequisites  
 | Required     | Version                                |  
