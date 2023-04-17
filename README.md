@@ -3,7 +3,7 @@
 This tutorial consists of the following sections:
 
 * [Installation](installation/README.md)
-* [Docker Beginner](docker-beginer/readme.md)
+* [Docker Beginner](docker-beginner/readme.md)
 * [Docker Networking](networking/README.md)
 * [Docker Security](security/README.md)
 * [Docker Registry](registry/README.md)
