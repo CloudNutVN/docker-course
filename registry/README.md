@@ -24,5 +24,3 @@ You'll need Docker running on Linux and be familiar with the key Docker concepts
 ## The Lab
 
 - [Part 1 - Running a Registry Container](part-1.md)
-- [Part 2 - Running a Secured Registry Container](part-2.md)
-- [Part 3 - Using Basic Authentication with a Secured Registry](part-3.md)
