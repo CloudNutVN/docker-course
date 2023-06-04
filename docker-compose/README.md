@@ -9,16 +9,8 @@ This lab is intended to give you practical experience in the following things:
 * Utilizing networks to ensure application isolation (and simplify config).
 * Debugging container failures.
 
-## Introduction
-
-This lab uses git tags, to "jump ahead" in time. Before you get started, make sure you checkout the tag for `1-in-memory-implementation`.
-
-```
-$ git checkout 1-in-memory-implementation
-```
-
-This lab also assumes you're using the docker-toolbox for MacOS (and are therefore using a Docker machine).
-
+## Prequisite
+Docker Compose Installation Guide: https://docs.docker.com/compose/install/standalone/
 
 ## Part 1: Introducing the Value Microservice.
 
