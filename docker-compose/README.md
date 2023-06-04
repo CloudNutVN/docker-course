@@ -11,6 +11,14 @@ This lab is intended to give you practical experience in the following things:
 
 ## Prequisite
 Docker Compose Installation Guide: https://docs.docker.com/compose/install/standalone/
+```
+# Change to root privelege
+sudo su -
+# Download docker-compose binary
+curl -SL https://github.com/docker/compose/releases/download/v2.18.1/docker-compose-linux-x86_64 -o /usr/local/bin/docker-compose
+# Add execute permission
+chmod +x /usr/local/bin/docker-compose
+```
 
 ## Part 1: Introducing the Value Microservice.
 
